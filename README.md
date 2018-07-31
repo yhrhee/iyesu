@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 爱耶稣
 
 You can use the [editor on GitHub](https://github.com/yhrhee/iyesu/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
