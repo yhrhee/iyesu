@@ -4,12 +4,12 @@ You can use the [editor on GitHub](https://github.com/yhrhee/iyesu/edit/gh-pages
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 훈련내용
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+훈련내용은 아래와 같습니다.
 
 # Header 1
 ## Header 2
